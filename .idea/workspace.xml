@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f47540f-9aa4-4a76-b507-a2728b4cadd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Bucles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Bucles.executor": "Run",
     "Application.Conditionals.executor": "Run",
     "Application.ForLoop.executor": "Run",
     "Application.PrimitiveTypes (1).executor": "Run",
@@ -45,7 +46,20 @@
     "onboarding.tips.debug.path": "C:/Users/Jaime/IntroJava/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ForLoop">
+  <component name="RunManager" selected="Application.Bucles">
+    <configuration name="Bucles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Bucles" />
+      <module name="IntroJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Conditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Conditionals" />
       <module name="IntroJava" />
@@ -93,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Strings" />
-      <module name="IntroJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bucles" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.PrimitiveTypes" />
         <item itemvalue="Application.PrimitiveTypes (1)" />
         <item itemvalue="Application.Conditionals" />
-        <item itemvalue="Application.Strings" />
       </list>
     </recent_temporary>
   </component>
