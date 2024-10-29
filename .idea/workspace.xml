@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f47540f-9aa4-4a76-b507-a2728b4cadd0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/coche/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/coche/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,7 @@
     "Application.Bucles.executor": "Run",
     "Application.Conditionals.executor": "Run",
     "Application.ForLoop.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.PrimitiveTypes (1).executor": "Run",
     "Application.PrimitiveTypes.executor": "Run",
     "Application.Strings.executor": "Run",
@@ -49,7 +51,7 @@
     "onboarding.tips.debug.path": "C:/Users/Jaime/IntroJava/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Arrays" />
       <module name="IntroJava" />
@@ -89,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.PrimitiveTypes" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.coche.Main" />
       <module name="IntroJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.coche.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.Bucles" />
         <item itemvalue="Application.ForLoop" />
-        <item itemvalue="Application.PrimitiveTypes" />
       </list>
     </recent_temporary>
   </component>
